@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @VladyMg
-- 👀 I’m interested in Tech World
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me alejandro.manguia@hotmail.com
+📫 How to reach me alejandro.manguia@hotmail.com
